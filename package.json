@@ -1,0 +1,24 @@
+{
+  "name": "chart-all",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue chart"
+  ],
+  "author": "dwu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wuxiao-D/chart-all.git"
+  },
+  "dependencies": {
+    "echarts": "^4.9.0",
+    "echarts-gl": "^1.1.2",
+    "echarts-liquidfill": "^2.0.6",
+    "zrender": "^4.3.1"
+  }
+}
